@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/ivy-portfolio/static/css/main.daa66b83.css",
+    "main.js": "/ivy-portfolio/static/js/main.5e6f6b48.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/ivy-portfolio/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/bg.JPG": "/ivy-portfolio/static/media/bg.de8101ca909711fcba15.JPG",
+    "static/media/about.jpg": "/ivy-portfolio/static/media/about.f785d6347f6a22fad792.jpg",
+    "static/media/about-9.jpeg": "/ivy-portfolio/static/media/about-9.7074b5f7e8697516a67f.jpeg",
+    "static/media/logo.svg": "/ivy-portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/ivy-portfolio/index.html",
+    "main.daa66b83.css.map": "/ivy-portfolio/static/css/main.daa66b83.css.map",
+    "main.5e6f6b48.js.map": "/ivy-portfolio/static/js/main.5e6f6b48.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/ivy-portfolio/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.daa66b83.css",
+    "static/js/main.5e6f6b48.js"
+  ]
+}
